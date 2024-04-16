@@ -139,6 +139,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
       window.location.href="dashboard.html";
     } else {
       document.getElementById('loginMessage').innerText = "Invalid email or password.";
+      window.alert("you have not yet signed up");
     }
   });
 });
