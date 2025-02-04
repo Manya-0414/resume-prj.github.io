@@ -1,7 +1,7 @@
 This is a simple web apllication that demonstrates how input values are taken through HTML login and signup input fields, validation is done through javascript and
 then page is directed to a resume builder where the user enters his details and then selects his theme to generate a resume.
 ## Run Locally
-1. Clone the repositiory to your local machine: https://github.com/Manya-0414/Tax-Calculator.git
+1. Clone the repositiory to your local machine: Manya-0414/resume-prj.github.io
 2. Navigate into project directory: cd resume-prj
 3. Open the 'index.html' file in your web boswer.
 
